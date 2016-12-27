@@ -1,0 +1,1 @@
+start c:\Python35\pythonw.exe c:\Users\elean\Desktop\cathy.pyw
